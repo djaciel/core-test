@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: crud-test-container
-        image: jacielgzz.azurecr.io/crud-test:v3
+        image: jacielgzz.azurecr.io/crud-test:v1
         resources:
           limits:
             memory: "128Mi"
